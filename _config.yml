@@ -1,1 +1,13 @@
-theme: jekyll-theme-slate
+# Site settings
+title: Alexa, WTF Just Happened?
+tag_text: Alexa, WTF Just Happened?
+description: An Amazon Alexa skill for What The Fuck Just Happened Today.
+url: "http://wtfalexa.com"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
