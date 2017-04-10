@@ -1,5 +1,3 @@
-This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
+# What The Fuck Just Happened Today? for Alexa
 
-### [Demo and Documentation](https://adueck.github.io/good-clean-read)
-
-Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+<p class="lead"><a href="{{ site.baseurl }}/">WTF Just Happened Today</a> is today's essential newsletter logging the daily shock and awe in national politics. Read in moderation.</p>
